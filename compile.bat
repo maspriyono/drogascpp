@@ -1,0 +1,1 @@
+g++ -o main playgame.cpp mainplay.cpp map/Display.cpp player/CREATURE.cpp player/PLAYER.cpp waktu/waktu1.1.cpp player/POINT.cpp command.cpp allmap/Area.cpp tanaman/tobacco.cpp tanaman/opium.cpp tanaman/mushroom.cpp tanaman/ganja.cpp tanaman/coca.cpp tanaman/anggur.cpp tanaman/tanaman.cpp player/INVENTORY.cpp IO/IOGame.cpp Player/SPRITES.cpp -lwinmm
